@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "projectId": "e7ZLRqKgpK8dZtEJquL6Ju",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "nesApBbIpRNB4",
+          "checksum": "0a06f781de37d0cf571843cfaead7ac4"
+        },
+        {
+          "assetId": "e7ZLRqKgpK8dZtEJquL6Ju",
+          "type": "projectCss",
+          "checksum": "fbb919f79e56ee6893372691af9e61e3"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "0VVVSV_365dQ",
+          "checksum": "a5b6e680300e5dab0e5dbf332f7b40ce"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "0VVVSV_365dQ",
+          "checksum": "a5b6e680300e5dab0e5dbf332f7b40ce"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "YOABKO80VhX",
+          "checksum": "06aecf004e535680d47e71f524fa5d40"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "YOABKO80VhX",
+          "checksum": "06aecf004e535680d47e71f524fa5d40"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "FYCQ4e1zKn",
+          "checksum": "d6a09c2657b10800e2a093300b8fc33b"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "FYCQ4e1zKn",
+          "checksum": "d6a09c2657b10800e2a093300b8fc33b"
+        },
+        {
+          "type": "icon",
+          "assetId": "JTxlSr2z07VYV",
+          "checksum": "8337a2b1835c47704cd73ea52ba4b9e5"
+        },
+        {
+          "type": "icon",
+          "assetId": "VM49sTSwlz1FF",
+          "checksum": "7d5c1a9ae1b333dd76f467682748abba"
+        },
+        {
+          "type": "icon",
+          "assetId": "RLnO4_64zc6",
+          "checksum": "9ff37057be454b414a804b3338976c65"
+        },
+        {
+          "type": "icon",
+          "assetId": "ycva8sjlkFi",
+          "checksum": "772bf33814d98209d40866bbd21bfafc"
+        },
+        {
+          "type": "image",
+          "assetId": "Jm3p3R4dTvjCD",
+          "checksum": "8f50edfea694bcdfe069243b556611e4"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.171"
+}
